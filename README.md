@@ -1,4 +1,4 @@
-# VynixC Dynamic Bot API & Command Proxy
+# VynixC Bot
 
 **Created by VynixC**  
 Professional API system for SA-MP gamemodes built in **NodeJS**, with support for **dynamic bot management**, **runtime command creation**, **webhooks**, **callbacks**, and **remote command execution**.
